@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+#first{
+    background-color: white;
+}
+#second{
+    background-color:blueviolet;
+    color: antiquewhite;
+}
+.intro{
+    background-color: aqua;
+    color: black;
+}
